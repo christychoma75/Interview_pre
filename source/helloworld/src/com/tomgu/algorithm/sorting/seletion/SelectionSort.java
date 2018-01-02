@@ -4,6 +4,7 @@ import com.tomgu.algorithm.sorting.ISort;
 
 /**
  * Created by guzuxing on 02/01/2018.
+ * Selection sort
  */
 public class SelectionSort implements ISort {
 

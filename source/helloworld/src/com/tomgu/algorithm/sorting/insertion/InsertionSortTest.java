@@ -1,15 +1,15 @@
-package com.tomgu.algorithm.sorting.seletion;
+package com.tomgu.algorithm.sorting.insertion;
 
 import java.util.Arrays;
 
 /**
  * Created by guzuxing on 02/01/2018.
- * Test selection sort
+ * Test insertion sort
  */
-public class SelectionSortTest {
+public class InsertionSortTest {
   public static void main(String[] args) {
     Integer[] a = new Integer[] {4, 7, 3, 2, -5, 8};
-    SelectionSort sort = new SelectionSort();
+    InsertionSort sort = new InsertionSort();
     sort.sort(a, 6);
     Arrays.stream(a).forEach(System.out::println);
   }
