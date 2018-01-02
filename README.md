@@ -13,6 +13,10 @@ Basically, I will write down all the things relevant. How it can help who needs.
 
 #### Algorithm
 
+##### Sorting
+
+* [Notes on sorting algorthms](http://tomgu1991.github.io/blog/Technical/DS_Al/Sorting)
+
 ##### Problem Solution
 
 * LeetCode: [Click here](https://github.com/tomgu1991/Interview_pre/tree/master/source/helloworld/src/com/tomgu/leetcode/)
