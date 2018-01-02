@@ -1,4 +1,4 @@
-package com.tomgu.algorithm.sorting.seletion;
+package com.tomgu.algorithm.sorting.selection;
 
 import java.util.Arrays;
 
