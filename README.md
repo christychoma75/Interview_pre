@@ -17,6 +17,10 @@ Basically, I will write down all the things relevant. How it can help who needs.
 
 * [Notes on sorting algorthms](http://tomgu1991.github.io/blog/Technical/DS_Al/Sorting)
 
+##### Searching
+
+* [Notes on searching](http://tomgu1991.github.io/blog/Technical/DS_Al/Searching) 
+
 ##### Problem Solution
 
 * LeetCode: [Click here](https://github.com/tomgu1991/Interview_pre/tree/master/source/helloworld/src/com/tomgu/leetcode/)
