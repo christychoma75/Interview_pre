@@ -7,8 +7,7 @@ Basically, I will write down all the things relevant. How it can help who needs.
 #### Data Structure
 
 * [Notes on data structures and abstractions](http://tomgu1991.github.io/blog/Technical/DS_Al/notes_on_ds_abs_java/Notes%20on%20Data%20Structures%20and%20Abstractions%20with%20Java)
-
-
+* [Notes on max heap](http://tomgu1991.github.io/blog/Technical/DS_Al/MaxHeap)
 
 
 #### Algorithm
@@ -24,4 +23,5 @@ Basically, I will write down all the things relevant. How it can help who needs.
 ##### Problem Solution
 
 * LeetCode: [Click here](https://github.com/tomgu1991/Interview_pre/tree/master/source/helloworld/src/com/tomgu/leetcode/)
+
 
