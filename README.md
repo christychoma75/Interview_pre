@@ -19,6 +19,7 @@ Basically, I will write down all the things relevant. How it can help who needs.
 ##### Searching
 
 * [Notes on searching](http://tomgu1991.github.io/blog/Technical/DS_Al/Searching) 
+* [Balanced Search Trees](http://tomgu1991.github.io/blog/Technical/DS_Al/BalancedSearchTrees)
 
 ##### Problem Solution
 
