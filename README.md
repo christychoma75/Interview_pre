@@ -25,4 +25,9 @@ Basically, I will write down all the things relevant. How it can help who needs.
 
 * LeetCode: [Click here](https://github.com/tomgu1991/Interview_pre/tree/master/source/helloworld/src/com/tomgu/leetcode/)
 
+#### Q&A
+
+* [Java](http://tomgu1991.github.io/blog/Technical/interview/JavaQA)
+* [SQL](http://tomgu1991.github.io/blog/Technical/interview/GitQA)
+* [GIT](http://tomgu1991.github.io/blog/Technical/interview/SQLQA)
 
