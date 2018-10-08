@@ -30,4 +30,5 @@ Basically, I will write down all the things relevant. How it can help who needs.
 * [Java](http://tomgu1991.github.io/blog/Technical/interview/JavaQA)
 * [SQL](http://tomgu1991.github.io/blog/Technical/interview/GitQA)
 * [GIT](http://tomgu1991.github.io/blog/Technical/interview/SQLQA)
+* [Terminology & Definition](http://tomgu1991.github.io/blog/Technical/interview/Terminology-Definition)
 
