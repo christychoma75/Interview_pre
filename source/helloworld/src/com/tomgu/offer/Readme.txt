@@ -11,3 +11,5 @@ Hard:
 for each char c, push into stack(mark as used) -> build left -> pop(mark as not used)
 aab -> for index, if index-1 == index, the same char; then if the index-1 not used,
       indicates that index is the next position, but it sames to index-1, we ignore it.
+31: boolean operator && can stop the computation
+35: to build n numbers
