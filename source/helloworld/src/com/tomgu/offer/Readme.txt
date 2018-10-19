@@ -13,3 +13,7 @@ aab -> for index, if index-1 == index, the same char; then if the index-1 not us
       indicates that index is the next position, but it sames to index-1, we ignore it.
 31: boolean operator && can stop the computation
 35: to build n numbers
+
+
+
+61: string.match
